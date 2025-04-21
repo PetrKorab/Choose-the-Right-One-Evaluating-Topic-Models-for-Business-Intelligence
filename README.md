@@ -8,6 +8,4 @@ Article is [here.](TBA) (TBA)
 
   <img src="Deployed fastopic.png" width="1200" />
   </br>
-  <img src="FASTOPIC_time_development_8.png" width="400" />
-  <img src="BERtopic_time_development_8.png" width="400" />
 </p>
