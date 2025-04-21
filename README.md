@@ -2,6 +2,14 @@
 Python code for **Choose the Right One: Evaluating Topic Models for Business Intelligence**, submitted to *Towards Data Science*. 
 Article is [here.](TBA) (TBA)
 
+
+<p float="left">
+
+  <img src="pipeline illustration 2.png" width="1200" />
+  </br>
+</p>
+
+
 </br>
 
 <p float="left">
