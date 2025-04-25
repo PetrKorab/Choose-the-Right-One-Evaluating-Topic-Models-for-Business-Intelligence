@@ -1,5 +1,5 @@
 # Choose the Right One: Evaluating Topic Models for Business Intelligence
-Python code for **Choose the Right One: Evaluating Topic Models for Business Intelligence**, submitted to *Towards Data Science*. 
+Python code for **Choose the Right One: Evaluating Topic Models for Business Intelligence**, 25.4.2025. *Towards Data Science*. 
 Article is [here.](https://towardsdatascience.com/choose-the-right-one-evaluating-topic-models-for-business-intelligence/)
 
 
