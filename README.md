@@ -1,6 +1,6 @@
 # Choose the Right One: Evaluating Topic Models for Business Intelligence
 Python codes for **Choose the Right One: Evaluating Topic Models for Business Intelligence**, 25.4.2025. *Towards Data Science*. 
-Article is [here.](https://towardsdatascience.com/choose-the-right-one-evaluating-topic-models-for-business-intelligence/)
+Article is [here.](https://medium.com/text-mining-stories/choose-the-right-one-evaluating-topic-models-for-business-intelligence-1e2f418d7573?sk=3bc07126cc44a1d254fb8a0967702957)
 
 
 <p float="left">
